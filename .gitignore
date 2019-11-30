@@ -5,7 +5,7 @@ node_modules
 # swap files
 *~
 *.swp
-
+*.gz
 
 
 env.sh
